@@ -3,6 +3,7 @@ import { createStackNavigator } from "@react-navigation/stack";
 import { NavigationContainer } from "@react-navigation/native";
 import { StatusBar } from 'react-native'
 import Tabs from './navigation/Tabs';
+import Tabs2 from './navigation/Tabs2';
 import { createDrawerNavigator } from '@react-navigation/drawer';
 import DrawerContent from './components/Drawer';
 

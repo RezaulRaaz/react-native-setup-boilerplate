@@ -11,7 +11,7 @@ const AppBar = () => {
                 <Image style={{ width: 25, height: 25 }} source={require('./../assets/icons/menu.png')} />
             </TouchableOpacity>
             <View>
-                <Text>App Name</Text>
+                <Text>Setup Project</Text>
             </View>
             <View>
                 <Image style={styles.profileAvatar} source={require('./../assets/img/Raaz.jpg')} />
